@@ -1,0 +1,1 @@
+module Counter = Counter

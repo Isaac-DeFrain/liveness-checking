@@ -1,0 +1,4 @@
+(executable
+ (public_name liveness)
+ (name main)
+ (libraries liveness))
