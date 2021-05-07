@@ -1,5 +1,5 @@
 (library
  (name liveness)
- (libraries counter)
+ (libraries state_machine)
  (lint
   (pps ppx_js_style -annotated-ignores -styler -pretty -dated-deprecation)))
